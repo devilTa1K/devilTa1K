@@ -168,10 +168,9 @@ Real-time CV system for hands-free desktop control. 20+ gestures at 30fps with <
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkaringale)
+[![LinkedIn](https://img.shields.io/badge/www.linkedin.com/in/omkar-ingale-a6b285365)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkaringale743@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00f5ff?style=for-the-badge&logo=firefox&logoColor=black)](https://deviltalk.github.io/omkar-portfolio)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/omkaringale)
 
 <br/>
 
